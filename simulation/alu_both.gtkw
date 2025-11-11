@@ -1,0 +1,28 @@
+[*]
+[*] GTKWave Analyzer v3.3.116 (w)1999-2023 BSI
+[*] Sun Nov  9 05:39:28 2025
+[*]
+[dumpfile] "/home/dell/D4-Hardware-Trojan/simulation/alu_both.vcd"
+[dumpfile_mtime] "Sun Nov  9 05:35:33 2025"
+[dumpfile_size] 180987
+[savefile] "/home/dell/D4-Hardware-Trojan/simulation/alu_both.gtkw"
+[timestart] 1202330
+[size] 1470 787
+[pos] -46 -46
+*-13.838600 2527730 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[sst_width] 209
+[signals_width] 134
+[sst_expanded] 1
+[sst_vpaned_height] 220
+@22
+tb_alu.A[3:0]
+tb_alu.B[3:0]
+tb_alu.Y_clean[3:0]
+tb_alu.Y_trojan[3:0]
+@420
+tb_alu.idx
+@28
+tb_alu.op[1:0]
+tb_alu.total_cycles
+[pattern_trace] 1
+[pattern_trace] 0
