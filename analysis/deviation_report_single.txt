@@ -1,0 +1,12 @@
+=== Hardware Trojan Detection Report (Single VCD) ===
+
+Total time points analyzed: 5138
+Mismatches detected: 5
+
+ Time (ns)    Y_clean   Y_trojan
+----------------------------------------
+   1276000       1110       1111
+   1277000       1110       1111
+   1278000       1110       1111
+   1279000       1110       1111
+   1280000       1110       1111
